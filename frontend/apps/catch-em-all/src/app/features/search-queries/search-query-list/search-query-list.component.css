@@ -1,0 +1,33 @@
+cdk-table {
+    display: flex;
+    flex-direction: column;
+}
+
+cdk-row, cdk-header-row {
+    display: flex;
+    flex-direction: row;
+}
+
+cdk-cell, cdk-header-cell {
+    padding: 0.875rem 1.25rem;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+cdk-cell>span, cdk-header-cell>span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+cdk-cell.actions, cdk-header-cell.actions {
+    padding: 0;
+    overflow: unset;
+}
+
+button {
+    margin: 0 0.5rem;
+}

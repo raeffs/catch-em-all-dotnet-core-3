@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "SqlConnectionString": "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=catch-em-all;Integrated Security=SSPI",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Options:BatchSize": 5,
+    "Options:UpdateIntervalInHours": -1
+  }
+}

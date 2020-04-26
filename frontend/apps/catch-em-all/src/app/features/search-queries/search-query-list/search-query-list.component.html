@@ -1,0 +1,59 @@
+<cea-create-search-query-shortcut></cea-create-search-query-shortcut>
+
+<nb-card>
+    <nb-card-header>Search Queries</nb-card-header>
+    <nb-card-body>
+        <cdk-table [dataSource]="source">
+
+            <cdk-header-row *cdkHeaderRowDef="columns"></cdk-header-row>
+            <cdk-row *cdkRowDef="let row; columns: columns"></cdk-row>
+
+            <ng-container cdkColumnDef="id">
+                <cdk-header-cell *cdkHeaderCellDef> Id </cdk-header-cell>
+                <cdk-cell *cdkCellDef="let row"><span> {{ row.id }} </span></cdk-cell>
+            </ng-container>
+
+            <ng-container cdkColumnDef="name">
+                <cdk-header-cell *cdkHeaderCellDef> Name </cdk-header-cell>
+                <cdk-cell *cdkCellDef="let row"><span> {{ row.name }} </span></cdk-cell>
+            </ng-container>
+
+            <ng-container cdkColumnDef="numberOfResults">
+                <cdk-header-cell *cdkHeaderCellDef> # Results </cdk-header-cell>
+                <cdk-cell *cdkCellDef="let row"><span> {{ row.numberOfResults }} </span></cdk-cell>
+            </ng-container>
+
+            <ng-container cdkColumnDef="updated">
+                <cdk-header-cell *cdkHeaderCellDef> Updated </cdk-header-cell>
+                <cdk-cell *cdkCellDef="let row"><span> {{ row.updated }} </span></cdk-cell>
+            </ng-container>
+
+            <ng-container cdkColumnDef="actions">
+                <cdk-header-cell
+                    *cdkHeaderCellDef
+                    class="actions"
+                ></cdk-header-cell>
+                <cdk-cell
+                    *cdkCellDef="let row"
+                    class="actions"
+                >
+                    <button
+                        nbButton
+                        ghost
+                        status="primary"
+                    >
+                        <nb-icon icon="edit-2"></nb-icon>
+                    </button>
+                    <button
+                        nbButton
+                        ghost
+                        status="danger"
+                    >
+                        <nb-icon icon="trash"></nb-icon>
+                    </button>
+                </cdk-cell>
+            </ng-container>
+
+        </cdk-table>
+    </nb-card-body>
+</nb-card>

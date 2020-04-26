@@ -1,0 +1,2103 @@
+{
+    "initialState": {
+        "router": {
+            "location": {
+                "pathname": "\u002Fde\u002Fs\u002Fneu",
+                "search": "?sort=newest",
+                "hash": "",
+                "key": "eo1xzy"
+            },
+            "action": "POP"
+        },
+        "common": {
+            "header": {
+                "searchTerm": "neu"
+            },
+            "launchdarkly": {
+                "userId": "1551ea57-18ac-4949-92ce-013ef20f70e1",
+                "flags": {
+                    "admin-tools-edit-account-statuses": true,
+                    "android-stripe-integration": true,
+                    "article-card-clever-timer": true,
+                    "boost-summary-email": true,
+                    "car-auction-warning": true,
+                    "category-srp": false,
+                    "charge-boost-on-close": false,
+                    "core-homepage-redirect": true,
+                    "core-srp": true,
+                    "covid-19": true,
+                    "covid-campaign": true,
+                    "drop-boost-on-close": false,
+                    "email-show-boost-summary": true,
+                    "exp-boost-position": false,
+                    "exp-boost-price-per-day": "A",
+                    "fma-on-site-communication-enabled": false,
+                    "fma-turn-off-fetching-saved-search-previews": false,
+                    "fma-turn-off-recommended-articles": false,
+                    "hash-tamedia-bid": true,
+                    "images-cdn": "https:\u002F\u002Fimg.ricardostatic.ch",
+                    "imaginary-rf": true,
+                    "information-banner": true,
+                    "intercom-wishlist-feedback": false,
+                    "ios-stripe-integration": true,
+                    "list-redirect-to-complete-profile": false,
+                    "mandatory-attributes": false,
+                    "missing-attribute-value": false,
+                    "mobile-survey-enabled": true,
+                    "move-parts-and-accessories": true,
+                    "new-buying-selling": true,
+                    "new-buying-selling-testing": true,
+                    "new-checkout-success": true,
+                    "new-payment-methods": false,
+                    "order-confirmation-flow": true,
+                    "payment-stripe-new-purchase-notifications": true,
+                    "pdp-improvements-3": true,
+                    "pdp-native-mobile-share": false,
+                    "pdp-realtime-firestore": true,
+                    "pick-at-home-poc": false,
+                    "price-offer-poc": false,
+                    "rating-new-storage": false,
+                    "receive-offers-listing-form": false,
+                    "regifting-campaign": false,
+                    "reminder-process": false,
+                    "saved-articles-pagination-filters": false,
+                    "search-articles-refinements-enabled": true,
+                    "search-autocomplete-counts-enabled": true,
+                    "search-autocomplete-enabled": true,
+                    "search-bucket-ranking-enabled": true,
+                    "search-explicit-user-groups-selector-flag": "original",
+                    "search-extract-context-before-search-enabled": true,
+                    "search-mobile-ab-test": "new",
+                    "search-ranking-with-offer-types": false,
+                    "search-ranking-with-user-groups": false,
+                    "search-reduced-inventory": "original",
+                    "search-solr-cluster-selector": "solr-cherry-pri",
+                    "search-solr-myricardo-cluster-selector": "solr-myricardo-pri",
+                    "secure-cookies-httponly": true,
+                    "secure-cookies-https": true,
+                    "secure-cookies-samesite": false,
+                    "selling-form-handbag-intercom": true,
+                    "solr-search-for-offers": false,
+                    "stripe-bank-transfer-disabled": false,
+                    "stripe-bank-transfer-disabled-step-3": false,
+                    "stripe-capabilities-transfers": true,
+                    "temporary-rename-new-my-selling": false,
+                    "vehicles-in-ricardo-listing-form": true,
+                    "warn-users": {
+                        "all": false,
+                        "bookkeeping": false,
+                        "checkout": false,
+                        "complete-profile": false,
+                        "confirm-email": false,
+                        "env": "production",
+                        "hp": false,
+                        "listing": false,
+                        "login": false,
+                        "my-ricardo-buying": false,
+                        "my-ricardo-fees": false,
+                        "my-ricardo-profile": false,
+                        "my-ricardo-refund": false,
+                        "my-ricardo-saved": false,
+                        "my-ricardo-selling": false,
+                        "pdp": false,
+                        "ratings": false,
+                        "register": false,
+                        "srp": false
+                    },
+                    "warn-users-realtime-notifications": false,
+                    "web-push-notifications": false,
+                    "wishlist": false,
+                    "wishlist-new-storage": false,
+                    "pdp-realtime-bid-notifications": true,
+                    "attributes-on-listing-form": true,
+                    "careers-imagegallery": false,
+                    "delivery-poc": false,
+                    "images-sourced-from-gcs": true,
+                    "no-boost-reactivation": false,
+                    "pdp-improvements-4": true,
+                    "pdp-product-type-attributes": true,
+                    "imaginary-rf-nocookie": false,
+                    "new-boost-selector": true,
+                    "offline-payments": true,
+                    "payment-show-bank-transfer": false,
+                    "product-types": false,
+                    "new-my-ricardo": true,
+                    "new-emails": false
+                }
+            },
+            "notifications": {
+                "items": []
+            },
+            "user": {
+                "current": null
+            },
+            "watchlist": {
+                "items": []
+            }
+        },
+        "srp": {
+            "results": [
+                {
+                    "id": 1115594514,
+                    "title": "CONTAX \"G2\" - Body - NEU!",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-03T18:18:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594514\u002F1\u002F1\u002Fcontax-g2-body-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 71542,
+                    "isPromo": true,
+                    "promoOption": "medium_category_landing_page",
+                    "condition": "Gebraucht",
+                    "bidPrice": 480,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fcontax-'g2'-body-neu!-1115594514\u002F",
+                    "sellerId": 402864018,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115614786,
+                    "title": "Gehäuse Schaltbetätigung Automatik VW T3",
+                    "creationDate": "2020-04-26T19:52:00Z",
+                    "startDate": "2020-04-26T19:52:00Z",
+                    "endDate": "2020-05-06T19:00:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115614786\u002F1\u002F1\u002Fgehause-schaltbetatigung-automatik-vw-t3.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 74897,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 50,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fgehaeuse-schaltbetaetigung-automatik-vw-t3-1115614786\u002F",
+                    "sellerId": 401114773,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115614762,
+                    "title": "46 [NEU] Tommy Hilfiger Made in Portugal",
+                    "creationDate": "2020-04-26T19:51:00Z",
+                    "startDate": "2020-04-26T19:51:00Z",
+                    "endDate": "2020-04-27T19:51:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115614762\u002F1\u002F1\u002F46-neu-tommy-hilfiger-made-in-portugal.jpg",
+                    "buyNowPrice": 92.95,
+                    "categoryId": 40999,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F46-(neu)-tommy-hilfiger-made-in-portugal-1115614762\u002F",
+                    "sellerId": 255145396,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115614084,
+                    "title": "46 [NEU] Tommy Hilfiger Made in Portugal",
+                    "creationDate": "2020-04-26T19:47:00Z",
+                    "startDate": "2020-04-26T19:47:00Z",
+                    "endDate": "2020-04-27T19:47:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115614084\u002F1\u002F1\u002F46-neu-tommy-hilfiger-made-in-portugal.jpg",
+                    "buyNowPrice": 92.95,
+                    "categoryId": 68785,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F46-(neu)-tommy-hilfiger-made-in-portugal-1115614084\u002F",
+                    "sellerId": 255145396,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115614188,
+                    "title": "Lego 42066 Air Race Jet",
+                    "creationDate": "2020-04-26T19:47:00Z",
+                    "startDate": "2020-04-26T19:47:00Z",
+                    "endDate": "2020-05-03T18:59:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115614188\u002F1\u002F1\u002Flego-42066-air-race-jet.jpg",
+                    "buyNowPrice": 130,
+                    "categoryId": 41822,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 80,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Flego-42066-air-race-jet-1115614188\u002F",
+                    "sellerId": 400908758,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "get_by_buyer",
+                        "cost": 0,
+                        "zipCode": "8008",
+                        "city": "Zürich"
+                    }
+                },
+                {
+                    "id": 1115607538,
+                    "title": "Verstärker Vox AD15VT Valvetronix",
+                    "creationDate": "2020-04-26T19:16:00Z",
+                    "startDate": "2020-04-26T19:16:00Z",
+                    "endDate": "2020-05-03T19:06:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115607538\u002F2\u002F1\u002Fverstarker-vox-ad15vt-valvetronix.jpg",
+                    "buyNowPrice": 130,
+                    "categoryId": 49457,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 100,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fverstaerker-vox-ad15vt-valvetronix-1115607538\u002F",
+                    "sellerId": 403774998,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "get_by_buyer",
+                        "cost": 0,
+                        "zipCode": "4053",
+                        "city": "Basel"
+                    }
+                },
+                {
+                    "id": 1115605528,
+                    "title": "Socken Gr 42",
+                    "creationDate": "2020-04-26T19:09:00Z",
+                    "startDate": "2020-04-26T19:09:00Z",
+                    "endDate": "2020-05-03T19:07:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115605528\u002F1\u002F1\u002Fsocken-gr-42.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 41038,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 1,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fsocken-gr-42-1115605528\u002F",
+                    "sellerId": 405701738,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 1.8
+                    }
+                },
+                {
+                    "id": 1115600378,
+                    "title": "Panasonic SJ-MJ75 Mini Disc Player",
+                    "creationDate": "2020-04-26T18:55:00Z",
+                    "startDate": "2020-04-26T18:55:00Z",
+                    "endDate": "2020-05-03T18:49:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115600378\u002F1\u002F1\u002Fpanasonic-sj-mj75-mini-disc-player.jpg",
+                    "buyNowPrice": 37,
+                    "categoryId": 38537,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 31,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fpanasonic-sj-mj75-mini-disc-player-1115600378\u002F",
+                    "sellerId": 408765083,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115600098,
+                    "title": "Rüschchen Socken rosa Gr 30 - 35 NEU!",
+                    "creationDate": "2020-04-26T18:53:00Z",
+                    "startDate": "2020-04-26T18:53:00Z",
+                    "endDate": "2020-05-06T18:46:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115600098\u002F1\u002F1\u002Fruschchen-socken-rosa-gr-30-35-neu.jpg",
+                    "buyNowPrice": 10,
+                    "categoryId": 40742,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 7,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Frueschchen-socken-rosa-gr-30-35-neu!-1115600098\u002F",
+                    "sellerId": 400586225,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_a_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115598658,
+                    "title": "NEU iPhone XS Max Handy + 2 J. Garantie",
+                    "creationDate": "2020-04-26T18:44:00Z",
+                    "startDate": "2020-04-26T18:44:00Z",
+                    "endDate": "2020-04-27T18:44:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115598658\u002F2\u002F1\u002Fneu-iphone-xs-max-handy-2-j-garantie.jpg",
+                    "buyNowPrice": 779.95,
+                    "categoryId": 81923,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fneu-iphone-xs-max-handy-2-j.-garantie-1115598658\u002F",
+                    "sellerId": 255145396,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115598316,
+                    "title": "NEU GUESS Stiefeletten offen, Gr. 36",
+                    "creationDate": "2020-04-26T18:42:00Z",
+                    "startDate": "2020-04-26T18:42:00Z",
+                    "endDate": "2020-04-30T18:41:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115598316\u002F1\u002F1\u002Fneu-guess-stiefeletten-offen-gr-36.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 68792,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 50,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fneu-guess-stiefeletten-offen-gr.-36-1115598316\u002F",
+                    "sellerId": 406945081,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115598454,
+                    "title": "Netzwerksteckdose Feller Edizio Reichle",
+                    "creationDate": "2020-04-26T18:42:00Z",
+                    "startDate": "2020-04-26T18:42:00Z",
+                    "endDate": "2020-05-06T18:40:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115598454\u002F1\u002F1\u002Fnetzwerksteckdose-feller-edizio-reichle.jpg",
+                    "buyNowPrice": 23,
+                    "categoryId": 39848,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 19,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fnetzwerksteckdose-feller-edizio-reichle-1115598454\u002F",
+                    "sellerId": 407023134,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 4
+                    }
+                },
+                {
+                    "id": 1115598026,
+                    "title": "Reise Taschen Set 4tlg. NEU",
+                    "creationDate": "2020-04-26T18:40:00Z",
+                    "startDate": "2020-04-26T18:40:00Z",
+                    "endDate": "2020-05-06T18:40:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115598026\u002F0\u002F1\u002Freise-taschen-set-4tlg-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 63792,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Freise-taschen-set-4tlg.-neu-1115598026\u002F",
+                    "sellerId": 403054835,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115597840,
+                    "title": "Hühner Ringe 45 Stück NEU  16mm",
+                    "creationDate": "2020-04-26T18:39:00Z",
+                    "startDate": "2020-04-26T18:39:00Z",
+                    "endDate": "2020-05-03T18:37:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115597840\u002F0\u002F1\u002Fhuhner-ringe-45-stuck-neu-16mm.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42194,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fhuehner-ringe-45-stueck-neu-16mm-1115597840\u002F",
+                    "sellerId": 401868917,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115597846,
+                    "title": "Schuhe Gr.29",
+                    "creationDate": "2020-04-26T18:39:00Z",
+                    "startDate": "2020-04-26T18:39:00Z",
+                    "endDate": "2020-05-03T18:31:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115597846\u002F0\u002F1\u002Fschuhe-gr29.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 80894,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 22,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fschuhe-gr.29-1115597846\u002F",
+                    "sellerId": 320181771,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115597868,
+                    "title": "Schönes TOP NEU",
+                    "creationDate": "2020-04-26T18:39:00Z",
+                    "startDate": "2020-04-26T18:39:00Z",
+                    "endDate": "2020-05-03T17:45:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115597868\u002F1\u002F1\u002Fschones-top-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40899,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fschoenes-top-neu-1115597868\u002F",
+                    "sellerId": 407257056,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_2cm",
+                        "cost": 1.8
+                    }
+                },
+                {
+                    "id": 1115597404,
+                    "title": "Hühner Ringe 45 Stück NEU  16mm",
+                    "creationDate": "2020-04-26T18:36:00Z",
+                    "startDate": "2020-04-26T18:36:00Z",
+                    "endDate": "2020-05-03T18:35:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115597404\u002F0\u002F1\u002Fhuhner-ringe-45-stuck-neu-16mm.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42194,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fhuehner-ringe-45-stueck-neu-16mm-1115597404\u002F",
+                    "sellerId": 401868917,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115597270,
+                    "title": "Hühner Ringe 45 Stück NEU  16mm",
+                    "creationDate": "2020-04-26T18:35:00Z",
+                    "startDate": "2020-04-26T18:35:00Z",
+                    "endDate": "2020-05-03T18:32:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115597270\u002F0\u002F1\u002Fhuhner-ringe-45-stuck-neu-16mm.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42194,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fhuehner-ringe-45-stueck-neu-16mm-1115597270\u002F",
+                    "sellerId": 401868917,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115596670,
+                    "title": "Yeti Corporate T-Shirt Long Sleeve Gr.XL",
+                    "creationDate": "2020-04-26T18:34:00Z",
+                    "startDate": "2020-04-26T18:34:00Z",
+                    "endDate": "2020-05-06T18:34:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115596670\u002F1\u002F1\u002Fyeti-corporate-t-shirt-long-sleeve-grxl.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 41980,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 19,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fyeti-corporate-t-shirt-long-sleeve-gr.xl-1115596670\u002F",
+                    "sellerId": 402998405,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115596680,
+                    "title": "MEINDL WANDERSCHUHE DAMEN GTX  GR.38 NEU",
+                    "creationDate": "2020-04-26T18:34:00Z",
+                    "startDate": "2020-04-26T18:34:00Z",
+                    "endDate": "2020-05-03T18:33:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115596680\u002F1\u002F1\u002Fmeindl-wanderschuhe-damen-gtx-gr38-neu.jpg",
+                    "buyNowPrice": 129,
+                    "categoryId": 75669,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fmeindl-wanderschuhe-damen-gtx-gr.38-neu-1115596680\u002F",
+                    "sellerId": 400700691,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 0
+                    }
+                },
+                {
+                    "id": 1115596846,
+                    "title": "Automatik Uhr Herr Edelstahl Big Bang",
+                    "creationDate": "2020-04-26T18:34:00Z",
+                    "startDate": "2020-04-26T18:34:00Z",
+                    "endDate": "2020-04-27T18:34:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115596846\u002F0\u002F1\u002Fautomatik-uhr-herr-edelstahl-big-bang.jpg",
+                    "buyNowPrice": 62,
+                    "categoryId": 42388,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fautomatik-uhr-herr-edelstahl-big-bang-1115596846\u002F",
+                    "sellerId": 405782422,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115596902,
+                    "title": "pull Cyrillus T. 3-4 ans comme neuf!",
+                    "creationDate": "2020-04-26T18:34:00Z",
+                    "startDate": "2020-04-26T18:34:00Z",
+                    "endDate": "2020-05-03T18:26:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115596902\u002F0\u002F1\u002Fpull-cyrillus-t-3-4-ans-comme-neuf.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 81294,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 7,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fpull-cyrillus-t.-3-4-ans-comme-neuf!-1115596902\u002F",
+                    "sellerId": 403144920,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_b_b4_1000g_2cm",
+                        "cost": 3.6
+                    }
+                },
+                {
+                    "id": 1115596606,
+                    "title": "Marvel vs Capcom 3 SE NTSC\u002FUS PS3 Neu",
+                    "creationDate": "2020-04-26T18:33:00Z",
+                    "startDate": "2020-04-26T18:33:00Z",
+                    "endDate": "2020-05-03T18:27:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115596606\u002F0\u002F1\u002Fmarvel-vs-capcom-3-se-ntscus-ps3-neu.jpg",
+                    "buyNowPrice": 79,
+                    "categoryId": 43423,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 69,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fmarvel-vs-capcom-3-se-ntsc-us-ps3-neu-1115596606\u002F",
+                    "sellerId": 405230406,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115595880,
+                    "title": "Troy Lee Womens Sleeveless Jersey Gr. M",
+                    "creationDate": "2020-04-26T18:31:00Z",
+                    "startDate": "2020-04-26T18:31:00Z",
+                    "endDate": "2020-05-02T18:00:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595880\u002F1\u002F1\u002Ftroy-lee-womens-sleeveless-jersey-gr-m.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 41952,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 9,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Ftroy-lee-womens-sleeveless-jersey-gr.-m-1115595880\u002F",
+                    "sellerId": 402998405,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115595728,
+                    "title": "Regenhose Gr.110\u002F116",
+                    "creationDate": "2020-04-26T18:30:00Z",
+                    "startDate": "2020-04-26T18:30:00Z",
+                    "endDate": "2020-05-03T18:23:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595728\u002F0\u002F1\u002Fregenhose-gr110116.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 81135,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 17,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fregenhose-gr.110-116-1115595728\u002F",
+                    "sellerId": 320181771,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115595474,
+                    "title": "Emoji T-Shirt NEU Grösse 158\u002F164",
+                    "creationDate": "2020-04-26T18:28:00Z",
+                    "startDate": "2020-04-26T18:28:00Z",
+                    "endDate": "2020-05-06T18:24:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595474\u002F0\u002F1\u002Femoji-t-shirt-neu-grosse-158164.jpg",
+                    "buyNowPrice": 20,
+                    "categoryId": 81182,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Femoji-t-shirt-neu-groesse-158-164-1115595474\u002F",
+                    "sellerId": 305153552,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 2
+                    }
+                },
+                {
+                    "id": 1115595522,
+                    "title": "Nike Air Jordan 4 SE Neon",
+                    "creationDate": "2020-04-26T18:28:00Z",
+                    "startDate": "2020-04-26T18:28:00Z",
+                    "endDate": "2020-04-29T18:15:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595522\u002F0\u002F1\u002Fnike-air-jordan-4-se-neon.jpg",
+                    "buyNowPrice": 215,
+                    "categoryId": 68761,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 190,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fnike-air-jordan-4-se-neon-1115595522\u002F",
+                    "sellerId": 407367262,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_a_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115595586,
+                    "title": "TV Radio Fernsehkabel Cablecom 7,5 Meter",
+                    "creationDate": "2020-04-26T18:28:00Z",
+                    "startDate": "2020-04-26T18:28:00Z",
+                    "endDate": "2020-05-06T18:25:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595586\u002F1\u002F1\u002Ftv-radio-fernsehkabel-cablecom-75-meter.jpg",
+                    "buyNowPrice": 8,
+                    "categoryId": 39847,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 6.5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Ftv-radio-fernsehkabel-cablecom-7-5-meter-1115595586\u002F",
+                    "sellerId": 407023134,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115595110,
+                    "title": "Hemd Chicoree, Gr.L-XL, NEU",
+                    "creationDate": "2020-04-26T18:26:00Z",
+                    "startDate": "2020-04-26T18:26:00Z",
+                    "endDate": "2020-05-03T17:54:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595110\u002F0\u002F1\u002Fhemd-chicoree-grl-xl-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40783,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 21,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fhemd-chicoree-gr.l-xl-neu-1115595110\u002F",
+                    "sellerId": 405801451,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115595142,
+                    "title": "USB Feuerzeug, NEU !!",
+                    "creationDate": "2020-04-26T18:26:00Z",
+                    "startDate": "2020-04-26T18:26:00Z",
+                    "endDate": "2020-05-03T17:52:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595142\u002F0\u002F1\u002Fusb-feuerzeug-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42488,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 15,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fusb-feuerzeug-neu-!!-1115595142\u002F",
+                    "sellerId": 408688198,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115595176,
+                    "title": "**Uhr Damenarmbanduhr \"ROSE GOLD\" NEU**",
+                    "creationDate": "2020-04-26T18:26:00Z",
+                    "startDate": "2020-04-26T18:26:00Z",
+                    "endDate": "2020-05-03T18:26:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595176\u002F0\u002F1\u002Fuhr-damenarmbanduhr-rose-gold-neu.jpg",
+                    "buyNowPrice": 5.95,
+                    "categoryId": 42386,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F**uhr-damenarmbanduhr-'rose-gold'-neu**-1115595176\u002F",
+                    "sellerId": 407686668,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_a_b5_100g_2cm",
+                        "cost": 1.95
+                    }
+                },
+                {
+                    "id": 1115595264,
+                    "title": "TV Radio Fernsehkabel Cablecom 5 Meter",
+                    "creationDate": "2020-04-26T18:26:00Z",
+                    "startDate": "2020-04-26T18:26:00Z",
+                    "endDate": "2020-05-06T18:24:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595264\u002F1\u002F1\u002Ftv-radio-fernsehkabel-cablecom-5-meter.jpg",
+                    "buyNowPrice": 7,
+                    "categoryId": 39847,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 6,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Ftv-radio-fernsehkabel-cablecom-5-meter-1115595264\u002F",
+                    "sellerId": 407023134,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115594970,
+                    "title": "Deutschland T-Shirt NEU Gr. 158\u002F164",
+                    "creationDate": "2020-04-26T18:25:00Z",
+                    "startDate": "2020-04-26T18:25:00Z",
+                    "endDate": "2020-05-06T18:20:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594970\u002F0\u002F1\u002Fdeutschland-t-shirt-neu-gr-158164.jpg",
+                    "buyNowPrice": 19,
+                    "categoryId": 81182,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fdeutschland-t-shirt-neu-gr.-158-164-1115594970\u002F",
+                    "sellerId": 305153552,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 2
+                    }
+                },
+                {
+                    "id": 1115595050,
+                    "title": "ICE AGE 1, 3, 4 und 5 Film–Set",
+                    "creationDate": "2020-04-26T18:25:00Z",
+                    "startDate": "2020-04-26T18:25:00Z",
+                    "endDate": "2020-05-03T18:16:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115595050\u002F0\u002F1\u002Fice-age-1-3-4-und-5-filmset.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 81657,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 1,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fice-age-1-3-4-und-5-film%E2%80%93set-1115595050\u002F",
+                    "sellerId": 395509977,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "letter_b_b4_500g_2cm",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115594746,
+                    "title": "Benzinfilter mit Magnet 3 Stk.  NEU",
+                    "creationDate": "2020-04-26T18:24:00Z",
+                    "startDate": "2020-04-26T18:24:00Z",
+                    "endDate": "2020-04-28T18:24:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594746\u002F1\u002F1\u002Fbenzinfilter-mit-magnet-3-stk-neu.jpg",
+                    "buyNowPrice": 2.2,
+                    "categoryId": 75049,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fbenzinfilter-mit-magnet-3-stk.-neu-1115594746\u002F",
+                    "sellerId": 407589066,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_100g_5cm",
+                        "cost": 2.4
+                    }
+                },
+                {
+                    "id": 1115594776,
+                    "title": "Schneeketten ungebraucht",
+                    "creationDate": "2020-04-26T18:24:00Z",
+                    "startDate": "2020-04-26T18:24:00Z",
+                    "endDate": "2020-05-03T18:19:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594776\u002F0\u002F1\u002Fschneeketten-ungebraucht.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 70019,
+                    "isPromo": false,
+                    "condition": "Gebraucht",
+                    "bidPrice": 1,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fschneeketten-ungebraucht-1115594776\u002F",
+                    "sellerId": 402784569,
+                    "conditionKey": "used",
+                    "shipping": {
+                        "key": "get_by_buyer",
+                        "cost": 0,
+                        "zipCode": "4500",
+                        "city": "Solothurn"
+                    }
+                },
+                {
+                    "id": 1115594814,
+                    "title": "SAINT TROPEZ L 40 VOLTANS LILA NEU NP60",
+                    "creationDate": "2020-04-26T18:24:00Z",
+                    "startDate": "2020-04-26T18:24:00Z",
+                    "endDate": "2020-05-06T18:24:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594814\u002F0\u002F1\u002Fsaint-tropez-l-40-voltans-lila-neu-np60.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40783,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 28,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fsaint-tropez-l-40-voltans-lila-neu-np60-1115594814\u002F",
+                    "sellerId": 406463448,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 2.6
+                    }
+                },
+                {
+                    "id": 1115594620,
+                    "title": "Regenjacke Gr.110",
+                    "creationDate": "2020-04-26T18:23:00Z",
+                    "startDate": "2020-04-26T18:23:00Z",
+                    "endDate": "2020-05-03T18:15:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594620\u002F0\u002F1\u002Fregenjacke-gr110.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 81120,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 17,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fregenjacke-gr.110-1115594620\u002F",
+                    "sellerId": 320181771,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115594294,
+                    "title": "CALIDA Spaghetti-Top aus Seide GR.L NEU",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594294\u002F0\u002F1\u002Fcalida-spaghetti-top-aus-seide-grl-neu.jpg",
+                    "buyNowPrice": 22,
+                    "categoryId": 40937,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fcalida-spaghetti-top-aus-seide-gr.l-neu-1115594294\u002F",
+                    "sellerId": 25070839,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_a_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115594318,
+                    "title": "Puma Running Damen  T-Shirt GR.L *NEU*",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594318\u002F0\u002F1\u002Fpuma-running-damen-t-shirt-grl-neu.jpg",
+                    "buyNowPrice": 22,
+                    "categoryId": 40890,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fpuma-running-damen-t-shirt-gr.l-*neu*-1115594318\u002F",
+                    "sellerId": 25070839,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_a_b4_500g_2cm",
+                        "cost": 3
+                    }
+                },
+                {
+                    "id": 1115594354,
+                    "title": "Schmidt Spiele | Vier in Metalldose",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594354\u002F0\u002F1\u002Fschmidt-spiele-or-vier-in-metalldose.jpg",
+                    "buyNowPrice": 12.9,
+                    "categoryId": 41852,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fschmidt-spiele-vier-in-metalldose-1115594354\u002F",
+                    "sellerId": 260146326,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8.5
+                    }
+                },
+                {
+                    "id": 1115594368,
+                    "title": "Nike Air Jordan 6 Retro DMP",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-04-29T18:14:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594368\u002F1\u002F1\u002Fnike-air-jordan-6-retro-dmp.jpg",
+                    "buyNowPrice": 360,
+                    "categoryId": 68761,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 290,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fnike-air-jordan-6-retro-dmp-1115594368\u002F",
+                    "sellerId": 407367262,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_a_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115594444,
+                    "title": "Lederbörse aus echtem Leder, LP.49.90",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594444\u002F0\u002F1\u002Flederborse-aus-echtem-leder-lp4990.jpg",
+                    "buyNowPrice": 20,
+                    "categoryId": 40758,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Flederboerse-aus-echtem-leder-lp.49.90-1115594444\u002F",
+                    "sellerId": 402145603,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 2.6
+                    }
+                },
+                {
+                    "id": 1115594446,
+                    "title": "Lederbörse Ellen Amber",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594446\u002F0\u002F1\u002Flederborse-ellen-amber.jpg",
+                    "buyNowPrice": 20,
+                    "categoryId": 40758,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Flederboerse-ellen-amber-1115594446\u002F",
+                    "sellerId": 402145603,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_250g_5cm",
+                        "cost": 2.6
+                    }
+                },
+                {
+                    "id": 1115594552,
+                    "title": "2 Sport-Cape , Puma rot und Ambassadeur",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-06T18:22:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594552\u002F0\u002F1\u002F2-sport-cape-puma-rot-und-ambassadeur.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42098,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 8,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F2-sport-cape-puma-rot-und-ambassadeur-1115594552\u002F",
+                    "sellerId": 406957791,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115594560,
+                    "title": "Swatch Club Uhr Space Dreams NEU",
+                    "creationDate": "2020-04-26T18:22:00Z",
+                    "startDate": "2020-04-26T18:22:00Z",
+                    "endDate": "2020-05-03T17:26:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594560\u002F0\u002F1\u002Fswatch-club-uhr-space-dreams-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 42428,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 32,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fswatch-club-uhr-space-dreams-neu-1115594560\u002F",
+                    "sellerId": 403690398,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_a_2kg",
+                        "cost": 9
+                    }
+                },
+                {
+                    "id": 1115594064,
+                    "title": "SIDI ~ Click - Schuhe NEU",
+                    "creationDate": "2020-04-26T18:21:00Z",
+                    "startDate": "2020-04-26T18:21:00Z",
+                    "endDate": "2020-05-03T18:20:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594064\u002F0\u002F1\u002Fsidi-~-click-schuhe-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 75708,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 57,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fsidi-~-click-schuhe-neu-1115594064\u002F",
+                    "sellerId": 15019995,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "parcel_b_10kg",
+                        "cost": 9.7
+                    }
+                },
+                {
+                    "id": 1115594068,
+                    "title": "TOM TAILOR 3\u002F4 SOMMER HOSE GR.38  *NEU*",
+                    "creationDate": "2020-04-26T18:21:00Z",
+                    "startDate": "2020-04-26T18:21:00Z",
+                    "endDate": "2020-05-03T18:20:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594068\u002F1\u002F1\u002Ftom-tailor-34-sommer-hose-gr38-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 43907,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 18,
+                    "bidsCount": 1,
+                    "url": "\u002Fde\u002Fa\u002Ftom-tailor-3-4-sommer-hose-gr.38-*neu*-1115594068\u002F",
+                    "sellerId": 25070839,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115594074,
+                    "title": "NEU° EDC by Esprit Kleid Gr. S",
+                    "creationDate": "2020-04-26T18:21:00Z",
+                    "startDate": "2020-04-26T18:21:00Z",
+                    "endDate": "2020-05-03T18:08:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115594074\u002F0\u002F1\u002Fneudegree-edc-by-esprit-kleid-gr-s.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40847,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 19,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fneu%C2%B0-edc-by-esprit-kleid-gr.-s-1115594074\u002F",
+                    "sellerId": 325229164,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115593888,
+                    "title": "***Uhr Herrenarmbanduhr \"Blue\" NEU***",
+                    "creationDate": "2020-04-26T18:20:00Z",
+                    "startDate": "2020-04-26T18:20:00Z",
+                    "endDate": "2020-05-03T18:20:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593888\u002F0\u002F1\u002Fuhr-herrenarmbanduhr-blue-neu.jpg",
+                    "buyNowPrice": 5.95,
+                    "categoryId": 42390,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F***uhr-herrenarmbanduhr-'blue'-neu***-1115593888\u002F",
+                    "sellerId": 407686668,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_a_b5_100g_2cm",
+                        "cost": 1.95
+                    }
+                },
+                {
+                    "id": 1115593958,
+                    "title": "3 Shorts+1 Dächlikappe 134\u002F140 neuwertig",
+                    "creationDate": "2020-04-26T18:20:00Z",
+                    "startDate": "2020-04-26T18:20:00Z",
+                    "endDate": "2020-05-03T18:20:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593958\u002F0\u002F1\u002F3-shorts1-dachlikappe-134140-neuwertig.jpg",
+                    "buyNowPrice": 30,
+                    "categoryId": 81127,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 15,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F3-shorts1-daechlikappe-134-140-neuwertig-1115593958\u002F",
+                    "sellerId": 325225727,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115593994,
+                    "title": "2 Teile   *  TAIFUN  *  Gr. 40",
+                    "creationDate": "2020-04-26T18:20:00Z",
+                    "startDate": "2020-04-26T18:20:00Z",
+                    "endDate": "2020-05-02T18:20:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593994\u002F0\u002F1\u002F2-teile-taifun-gr-40.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40848,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 11,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F2-teile-*-taifun-*-gr.-40-1115593994\u002F",
+                    "sellerId": 403169388,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115593666,
+                    "title": "Apple Magic Mouse 2 space grey",
+                    "creationDate": "2020-04-26T18:19:00Z",
+                    "startDate": "2020-04-26T18:19:00Z",
+                    "endDate": "2020-05-03T18:15:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593666\u002F0\u002F1\u002Fapple-magic-mouse-2-space-grey.jpg",
+                    "buyNowPrice": 99,
+                    "categoryId": 39107,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 1,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fapple-magic-mouse-2-space-grey-1115593666\u002F",
+                    "sellerId": 395521703,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 7
+                    }
+                },
+                {
+                    "id": 1115593338,
+                    "title": "6x Game Boy Hüllen (NEU)",
+                    "creationDate": "2020-04-26T18:18:00Z",
+                    "startDate": "2020-04-26T18:18:00Z",
+                    "endDate": "2020-05-03T21:18:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593338\u002F0\u002F1\u002F6x-game-boy-hullen-neu.jpg",
+                    "buyNowPrice": 12,
+                    "categoryId": 73075,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F6x-game-boy-huellen-(neu)-1115593338\u002F",
+                    "sellerId": 407264048,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_a_b5_250g_2cm",
+                        "cost": 2.3
+                    }
+                },
+                {
+                    "id": 1115593562,
+                    "title": "Clutch mit Pailetten und Zottel NEU",
+                    "creationDate": "2020-04-26T18:18:00Z",
+                    "startDate": "2020-04-26T18:18:00Z",
+                    "endDate": "2020-05-06T18:18:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593562\u002F0\u002F1\u002Fclutch-mit-pailetten-und-zottel-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40980,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 5,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fclutch-mit-pailetten-und-zottel-neu-1115593562\u002F",
+                    "sellerId": 403054835,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115593564,
+                    "title": "Camouflage Handtasche NEU",
+                    "creationDate": "2020-04-26T18:18:00Z",
+                    "startDate": "2020-04-26T18:18:00Z",
+                    "endDate": "2020-05-06T18:18:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593564\u002F0\u002F1\u002Fcamouflage-handtasche-neu.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40980,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": 10,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fcamouflage-handtasche-neu-1115593564\u002F",
+                    "sellerId": 403054835,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "parcel_b_2kg",
+                        "cost": 8
+                    }
+                },
+                {
+                    "id": 1115593574,
+                    "title": "ENVII ENRODIN BLUSE BLAU M 38 NEU NP 80",
+                    "creationDate": "2020-04-26T18:18:00Z",
+                    "startDate": "2020-04-26T18:18:00Z",
+                    "endDate": "2020-05-06T18:18:00Z",
+                    "hasBuyNow": false,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593574\u002F0\u002F1\u002Fenvii-enrodin-bluse-blau-m-38-neu-np-80.jpg",
+                    "buyNowPrice": null,
+                    "categoryId": 40782,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 29,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fenvii-enrodin-bluse-blau-m-38-neu-np-80-1115593574\u002F",
+                    "sellerId": 406463448,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_a_b4_500g_2cm",
+                        "cost": 2
+                    }
+                },
+                {
+                    "id": 1115593584,
+                    "title": "PolarPro Filter Cinema Series ND32\u002FPL",
+                    "creationDate": "2020-04-26T18:18:00Z",
+                    "startDate": "2020-04-26T18:18:00Z",
+                    "endDate": "2020-05-03T18:18:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": true,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115593584\u002F0\u002F1\u002Fpolarpro-filter-cinema-series-nd32pl.jpg",
+                    "buyNowPrice": 25,
+                    "categoryId": 78159,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": 15,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fpolarpro-filter-cinema-series-nd32-pl-1115593584\u002F",
+                    "sellerId": 407069614,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_b_b5_100g_5cm",
+                        "cost": 2.35
+                    }
+                },
+                {
+                    "id": 1115592952,
+                    "title": "Ktm rc8 abdeckung unter sozius",
+                    "creationDate": "2020-04-26T18:17:00Z",
+                    "startDate": "2020-04-26T18:17:00Z",
+                    "endDate": "2020-05-06T18:16:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115592952\u002F0\u002F1\u002Fktm-rc8-abdeckung-unter-sozius.jpg",
+                    "buyNowPrice": 6,
+                    "categoryId": 78686,
+                    "isPromo": false,
+                    "condition": "Neu (gemäss Beschreibung)",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002Fktm-rc8-abdeckung-unter-sozius-1115592952\u002F",
+                    "sellerId": 408966161,
+                    "conditionKey": "like_new",
+                    "shipping": {
+                        "key": "letter_b_b5_100g_5cm",
+                        "cost": 2.35
+                    }
+                },
+                {
+                    "id": 1115592348,
+                    "title": "***Uhr Herrenarmbanduhr \"Digital\" NEU***",
+                    "creationDate": "2020-04-26T18:16:00Z",
+                    "startDate": "2020-04-26T18:16:00Z",
+                    "endDate": "2020-05-03T18:16:00Z",
+                    "hasBuyNow": true,
+                    "hasAuction": false,
+                    "image": "https:\u002F\u002Fimg.ricardostatic.ch\u002F{{TRANSFORMATION}}\u002Fpl\u002F1115592348\u002F0\u002F1\u002Fuhr-herrenarmbanduhr-digital-neu.jpg",
+                    "buyNowPrice": 7.95,
+                    "categoryId": 42390,
+                    "isPromo": false,
+                    "condition": "Neu und originalverpackt",
+                    "bidPrice": null,
+                    "bidsCount": 0,
+                    "url": "\u002Fde\u002Fa\u002F***uhr-herrenarmbanduhr-'digital'-neu***-1115592348\u002F",
+                    "sellerId": 407686668,
+                    "conditionKey": "new",
+                    "shipping": {
+                        "key": "letter_a_b5_100g_2cm",
+                        "cost": 1.95
+                    }
+                }
+            ],
+            "viewMode": "grid",
+            "filters": {
+                "location": {
+                    "priority": 292,
+                    "filterId": "l",
+                    "type": "location",
+                    "title": "Standort",
+                    "isExpanded": true,
+                    "zipCode": {
+                        "param": "zip_code",
+                        "value": "",
+                        "label": "PLZ (CH)"
+                    },
+                    "range": {
+                        "param": "range",
+                        "value": "",
+                        "label": "Umkreis"
+                    }
+                },
+                "itemCondition": {
+                    "priority": 95,
+                    "filterId": "c",
+                    "type": "checkbox",
+                    "title": "Zustand",
+                    "param": "item_condition",
+                    "isExpanded": true,
+                    "items": [
+                        {
+                            "value": "new_see_description,new_original_package",
+                            "isChecked": false,
+                            "label": "Neu",
+                            "count": 72482
+                        },
+                        {
+                            "value": "new_see_description",
+                            "isChecked": false,
+                            "label": "Neu gem. Beschreibung",
+                            "isSubfilter": true,
+                            "hidden": true,
+                            "count": 28634
+                        },
+                        {
+                            "value": "new_original_package",
+                            "isChecked": false,
+                            "label": "Neu & originalverpackt",
+                            "isSubfilter": true,
+                            "hidden": true,
+                            "count": 43848
+                        },
+                        {
+                            "value": "used",
+                            "isChecked": false,
+                            "label": "Gebraucht",
+                            "count": 9245
+                        },
+                        {
+                            "value": "defekt",
+                            "isChecked": false,
+                            "label": "Defekt",
+                            "count": 59
+                        },
+                        {
+                            "value": "antik",
+                            "isChecked": false,
+                            "label": "Antik",
+                            "count": 92
+                        }
+                    ]
+                },
+                "price": {
+                    "priority": 295,
+                    "name": "price",
+                    "type": "price",
+                    "min_value": 0.05,
+                    "max_value": 100000,
+                    "filterId": "price",
+                    "isExpanded": true,
+                    "absoluteMaxPrice": 100000
+                },
+                "shipping": {
+                    "priority": 80,
+                    "filterId": "s",
+                    "type": "checkbox",
+                    "title": "Lieferung",
+                    "param": "shipping",
+                    "isExpanded": false,
+                    "items": [
+                        {
+                            "value": "shipping_cost",
+                            "isChecked": false,
+                            "label": "Lieferung mit Kosten",
+                            "count": 72355
+                        },
+                        {
+                            "value": "free",
+                            "isChecked": false,
+                            "label": "Versand kostenlos",
+                            "count": 4622
+                        },
+                        {
+                            "value": "pickup_by_buyer",
+                            "isChecked": false,
+                            "label": "Abholung",
+                            "count": 4678
+                        }
+                    ]
+                },
+                "paymentMethod": {
+                    "priority": 65,
+                    "filterId": "pm",
+                    "type": "checkbox",
+                    "title": "Zahlung",
+                    "param": "payment_method",
+                    "items": [
+                        {
+                            "value": "credit_card",
+                            "isChecked": false,
+                            "label": "Kreditkarte",
+                            "count": 7886
+                        },
+                        {
+                            "value": "bank_transfer",
+                            "isChecked": false,
+                            "label": "Überweisung",
+                            "count": 72990
+                        },
+                        {
+                            "value": "cash",
+                            "isChecked": false,
+                            "label": "Barzahlung",
+                            "count": 4768
+                        },
+                        {
+                            "value": "see_description",
+                            "isChecked": false,
+                            "label": "Gem. Beschreibung",
+                            "count": 4170
+                        }
+                    ]
+                },
+                "sellerType": {
+                    "priority": 70,
+                    "filterId": "st",
+                    "type": "checkbox",
+                    "title": "Verkäufertyp",
+                    "param": "seller_type",
+                    "items": [
+                        {
+                            "value": "individual",
+                            "isChecked": false,
+                            "label": "Privat",
+                            "count": 65726
+                        },
+                        {
+                            "value": "professionnal",
+                            "isChecked": false,
+                            "label": "Gewerblich",
+                            "count": 16182
+                        }
+                    ]
+                },
+                "language": {
+                    "priority": 75,
+                    "filterId": "ln",
+                    "type": "checkbox",
+                    "title": "Sprache",
+                    "param": "language",
+                    "items": [
+                        {
+                            "value": "de",
+                            "valueForCount": "de,fr_and_de",
+                            "isChecked": false,
+                            "label": "Deutsch",
+                            "count": 78969
+                        },
+                        {
+                            "value": "fr",
+                            "valueForCount": "fr,fr_and_de",
+                            "isChecked": false,
+                            "label": "Französisch",
+                            "count": 5322
+                        }
+                    ]
+                },
+                "availability": {
+                    "priority": 50,
+                    "filterId": "a",
+                    "type": "checkbox",
+                    "title": "Verfügbarkeit",
+                    "param": "availability",
+                    "items": [
+                        {
+                            "value": "0",
+                            "isChecked": false,
+                            "label": "Sofort lieferbar",
+                            "count": 77412
+                        },
+                        {
+                            "value": "5",
+                            "isChecked": false,
+                            "label": "In 5 Arbeitstagen",
+                            "count": 2138
+                        },
+                        {
+                            "value": "10",
+                            "isChecked": false,
+                            "label": "In 10 Arbeitstagen",
+                            "count": 1513
+                        },
+                        {
+                            "value": "15",
+                            "isChecked": false,
+                            "label": "In 15 Arbeitstagen",
+                            "count": 249
+                        },
+                        {
+                            "value": "30",
+                            "isChecked": false,
+                            "label": "In 30 Arbeitstagen",
+                            "count": 587
+                        },
+                        {
+                            "value": "60",
+                            "isChecked": false,
+                            "label": "In 60 Arbeitstagen",
+                            "count": 10
+                        }
+                    ]
+                },
+                "offerType": {
+                    "priority": 85,
+                    "filterId": "ot",
+                    "type": "checkbox",
+                    "title": "Angebotsart",
+                    "param": "offer_type",
+                    "isExpanded": false,
+                    "items": [
+                        {
+                            "value": "auction",
+                            "valueForCount": "auction,auction_with_buynow",
+                            "isChecked": false,
+                            "label": "Auktion",
+                            "count": 45560
+                        },
+                        {
+                            "value": "fixed_price",
+                            "valueForCount": "fixed_price,auction_with_buynow",
+                            "isChecked": false,
+                            "label": "Sofort kaufen",
+                            "count": 56904
+                        }
+                    ]
+                },
+                "advancedSearch": {
+                    "priority": 0,
+                    "filterId": "af",
+                    "type": "advanced_search",
+                    "title": "Zusätzliche Wortfilter",
+                    "isExpanded": false,
+                    "withoutWords": {
+                        "param": "search_exclude",
+                        "value": "",
+                        "label": "Ohne diese Wörter"
+                    },
+                    "containsWords": {
+                        "param": "search_one_of",
+                        "value": "",
+                        "label": "Mit einem dieser Wörter"
+                    },
+                    "containsExactSentence": {
+                        "param": "search_full_match",
+                        "value": "",
+                        "label": "Mit der genauen Wortgruppe"
+                    }
+                }
+            },
+            "categories": [
+                {
+                    "id": 40748,
+                    "name": "Kleidung & Accessoires",
+                    "seoUrl": "kleidung-und-accessoires-40748",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 23700,
+                    "children": []
+                },
+                {
+                    "id": 40520,
+                    "name": "Kind & Baby",
+                    "seoUrl": "kind-und-baby-40520",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 7634,
+                    "children": []
+                },
+                {
+                    "id": 40295,
+                    "name": "Haushalt & Wohnen",
+                    "seoUrl": "haushalt-und-wohnen-40295",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 6610,
+                    "children": []
+                },
+                {
+                    "id": 41733,
+                    "name": "Spielzeug & Basteln",
+                    "seoUrl": "spielzeug-und-basteln-41733",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 5655,
+                    "children": []
+                },
+                {
+                    "id": 42272,
+                    "name": "Uhren & Schmuck",
+                    "seoUrl": "uhren-und-schmuck-42272",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 4554,
+                    "children": []
+                },
+                {
+                    "id": 41126,
+                    "name": "Modellbau & Hobby",
+                    "seoUrl": "modellbau-und-hobby-41126",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 4101,
+                    "children": []
+                },
+                {
+                    "id": 41875,
+                    "name": "Sport",
+                    "seoUrl": "sports-41875",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 3784,
+                    "children": []
+                },
+                {
+                    "id": 69989,
+                    "name": "Fahrzeugzubehör",
+                    "seoUrl": "fahrzeugzubehoer-69989",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 3728,
+                    "children": []
+                },
+                {
+                    "id": 39825,
+                    "name": "Handwerk & Garten",
+                    "seoUrl": "handwerk-und-garten-39825",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 2421,
+                    "children": []
+                },
+                {
+                    "id": 41057,
+                    "name": "Kosmetik & Pflege",
+                    "seoUrl": "kosmetik-und-pflege-41057",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 2240,
+                    "children": []
+                },
+                {
+                    "id": 63781,
+                    "name": "Musik & Musikinstrumente",
+                    "seoUrl": "musik-und-musikinstrumente-63781",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 2087,
+                    "children": []
+                },
+                {
+                    "id": 41518,
+                    "name": "Sammeln & Seltenes",
+                    "seoUrl": "sammeln-und-seltenes-41518",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 2047,
+                    "children": []
+                },
+                {
+                    "id": 81382,
+                    "name": "Filme & Serien",
+                    "seoUrl": "filme-serien-81382",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 2003,
+                    "children": []
+                },
+                {
+                    "id": 38889,
+                    "name": "Bücher & Comics",
+                    "seoUrl": "buecher-und-comics-38889",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 1757,
+                    "children": []
+                },
+                {
+                    "id": 63788,
+                    "name": "Büro & Gewerbe",
+                    "seoUrl": "buero-und-gewerbe-63788",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 1616,
+                    "children": []
+                },
+                {
+                    "id": 39940,
+                    "name": "Handy, Festnetz, Funk",
+                    "seoUrl": "handy-festnetz-funk-39940",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 1449,
+                    "children": []
+                },
+                {
+                    "id": 39563,
+                    "name": "Games & Spielkonsolen",
+                    "seoUrl": "games-und-spielkonsolen-39563",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 1388,
+                    "children": []
+                },
+                {
+                    "id": 39091,
+                    "name": "Computer & Netzwerk",
+                    "seoUrl": "computer-und-netzwerk-39091",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 1317,
+                    "children": []
+                },
+                {
+                    "id": 63787,
+                    "name": "Audio, TV & Video",
+                    "seoUrl": "audio-tv-und-video-63787",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 821,
+                    "children": []
+                },
+                {
+                    "id": 42135,
+                    "name": "Tierzubehör",
+                    "seoUrl": "tierzubehoer-42135",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 778,
+                    "children": []
+                },
+                {
+                    "id": 38399,
+                    "name": "Antiquitäten & Kunst",
+                    "seoUrl": "antiquitaeten-und-kunst-38399",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 611,
+                    "children": []
+                },
+                {
+                    "id": 39460,
+                    "name": "Foto & Optik",
+                    "seoUrl": "foto-und-optik-39460",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 429,
+                    "children": []
+                },
+                {
+                    "id": 38766,
+                    "name": "Briefmarken",
+                    "seoUrl": "briefmarken-38766",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 383,
+                    "children": []
+                },
+                {
+                    "id": 42454,
+                    "name": "Wein & Genuss",
+                    "seoUrl": "wein-und-genuss-42454",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 371,
+                    "children": []
+                },
+                {
+                    "id": 41260,
+                    "name": "Münzen",
+                    "seoUrl": "muenzen-41260",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 236,
+                    "children": []
+                },
+                {
+                    "id": 69956,
+                    "name": "Fahrzeuge",
+                    "seoUrl": "fahrzeuge-69956",
+                    "type": "auto",
+                    "active": true,
+                    "count": 156,
+                    "children": []
+                },
+                {
+                    "id": 42099,
+                    "name": "Tickets & Gutscheine",
+                    "seoUrl": "tickets-und-gutscheine-42099",
+                    "type": "marketplace",
+                    "active": true,
+                    "count": 33,
+                    "children": []
+                }
+            ],
+            "totalArticlesCount": 81909,
+            "nextSearchOffset": 60,
+            "config": {
+                "pageSize": 60,
+                "backendPageLimit": 1000
+            },
+            "suggestedRefinements": null,
+            "seoPageData": {
+                "attributes": {}
+            },
+            "categoryTree": [],
+            "isCurrentSavedSearchFetched": false,
+            "savedSearch": null,
+            "features": {
+                "search-extract-context-before-search-enabled": "true",
+                "search-articles-refinements-enabled": "true",
+                "search-explicit-user-groups-selector-flag": "original",
+                "missing-attribute-value": "false",
+                "search-bucket-ranking-enabled": "true",
+                "search-solr-cluster-selector": "solr-cherry-pri",
+                "search-ranking-with-user-groups": "false"
+            },
+            "searchUid": "982120d6-10f2-4681-9201-4cc7cb1ef3b7",
+            "seoMetadata": {
+                "title": "neu - Günstig bei Auktionen oder sofort kaufen | Ricardo",
+                "description": "neu. Finden Sie den seltenen Gegenstand unter Tausenden von gebrauchten oder neuen Artikeln. Kaufen und verkaufen Sie auf einer Auktion oder sofort. Ricardo: Der grösste Online-Marktplatz der Schweiz.",
+                "robotsMetaContent": "noindex, follow",
+                "canonical": null,
+                "alternateUrls": [
+                    {
+                        "lang": "fr",
+                        "url": "\u002Ffr\u002Fs\u002Fneu?sort=newest"
+                    },
+                    {
+                        "lang": "it",
+                        "url": "\u002Fit\u002Fs\u002Fneu?sort=newest"
+                    }
+                ]
+            },
+            "isUpdatingResults": false,
+            "updateResultsError": false
+        }
+    },
+    "config": {
+        "APP_ENV": "prod",
+        "BEAGLE": "https:\u002F\u002Fbeagle.prod.tda.link\u002Fscripts\u002Fricardo\u002Fbeagle.min.js",
+        "HOTJAR_SITE_ID": "414774",
+        "GTM_ID": "GTM-NDDRRQC",
+        "NODE_ENV": "production",
+        "SENTRY_URL": "https:\u002F\u002F3f4b8ddd97384dc4a4ff657f322865bd@sentry.io\u002F1282362",
+        "TATM_ADS_URL": "https:\u002F\u002Ftdn.da-services.ch\u002Fv\u002F1.3.7\u002Fricardo.js",
+        "WEBPACK_PUBLIC_PATH": "https:\u002F\u002Fstatic.ricardo.ch\u002Fassets\u002Fsearch\u002F"
+    },
+    "guessedBreakpoint": "xl"
+}

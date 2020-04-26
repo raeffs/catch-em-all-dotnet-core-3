@@ -1,0 +1,149 @@
+{
+    "version": 1,
+    "projects": {
+        "catch-em-all": {
+            "projectType": "application",
+            "schematics": {},
+            "root": "apps/catch-em-all",
+            "sourceRoot": "apps/catch-em-all/src",
+            "prefix": "cea",
+            "architect": {
+                "build": {
+                    "builder": "@angular-devkit/build-angular:browser",
+                    "options": {
+                        "outputPath": "dist/apps/catch-em-all",
+                        "index": "apps/catch-em-all/src/index.html",
+                        "main": "apps/catch-em-all/src/main.ts",
+                        "polyfills": "apps/catch-em-all/src/polyfills.ts",
+                        "tsConfig": "apps/catch-em-all/tsconfig.app.json",
+                        "aot": true,
+                        "assets": [
+                            "apps/catch-em-all/src/assets",
+                            {
+                                "input": "assets/favicons",
+                                "glob": "**/*",
+                                "output": "/"
+                            },
+                            "apps/catch-em-all/src/silent-refresh.html"
+                        ],
+                        "styles": [
+                            "./node_modules/@nebular/theme/styles/prebuilt/corporate.css",
+                            "apps/catch-em-all/src/styles.css"
+                        ],
+                        "scripts": []
+                    },
+                    "configurations": {
+                        "production": {
+                            "fileReplacements": [
+                                {
+                                    "replace": "apps/catch-em-all/src/environments/environment.ts",
+                                    "with": "apps/catch-em-all/src/environments/environment.prod.ts"
+                                }
+                            ],
+                            "optimization": true,
+                            "outputHashing": "all",
+                            "sourceMap": false,
+                            "extractCss": true,
+                            "namedChunks": false,
+                            "extractLicenses": true,
+                            "vendorChunk": false,
+                            "buildOptimizer": true,
+                            "budgets": [
+                                {
+                                    "type": "initial",
+                                    "maximumWarning": "2mb",
+                                    "maximumError": "5mb"
+                                },
+                                {
+                                    "type": "anyComponentStyle",
+                                    "maximumWarning": "6kb",
+                                    "maximumError": "10kb"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "serve": {
+                    "builder": "@angular-devkit/build-angular:dev-server",
+                    "options": {
+                        "browserTarget": "catch-em-all:build"
+                    },
+                    "configurations": {
+                        "production": {
+                            "browserTarget": "catch-em-all:build:production"
+                        }
+                    }
+                },
+                "lint": {
+                    "builder": "@angular-devkit/build-angular:tslint",
+                    "options": {
+                        "tsConfig": [
+                            "apps/catch-em-all/tsconfig.app.json"
+                        ],
+                        "exclude": [
+                            "**/node_modules/**",
+                            "!apps/catch-em-all/**"
+                        ]
+                    }
+                }
+            }
+        },
+        "auth": {
+            "projectType": "library",
+            "root": "libs/auth",
+            "sourceRoot": "libs/auth/src",
+            "prefix": "cea",
+            "architect": {
+                "lint": {
+                    "builder": "@angular-devkit/build-angular:tslint",
+                    "options": {
+                        "tsConfig": [
+                            "libs/auth/tsconfig.lib.json",
+                            "libs/auth/tsconfig.spec.json"
+                        ],
+                        "exclude": [
+                            "**/node_modules/**",
+                            "!libs/auth/**"
+                        ]
+                    }
+                }
+            },
+            "schematics": {}
+        },
+        "api": {
+            "projectType": "library",
+            "root": "libs/api",
+            "sourceRoot": "libs/api/src",
+            "prefix": "cea",
+            "architect": {
+                "lint": {
+                    "builder": "@angular-devkit/build-angular:tslint",
+                    "options": {
+                        "tsConfig": [
+                            "libs/api/tsconfig.lib.json",
+                            "libs/api/tsconfig.spec.json"
+                        ],
+                        "exclude": [
+                            "**/node_modules/**",
+                            "!libs/api/**"
+                        ]
+                    }
+                }
+            },
+            "schematics": {}
+        }
+    },
+    "cli": {
+        "defaultCollection": "@nrwl/angular"
+    },
+    "schematics": {
+        "@nrwl/angular:application": {
+            "unitTestRunner": "jest",
+            "e2eTestRunner": "cypress"
+        },
+        "@nrwl/angular:library": {
+            "unitTestRunner": "jest"
+        }
+    },
+    "defaultProject": "catch-em-all"
+}

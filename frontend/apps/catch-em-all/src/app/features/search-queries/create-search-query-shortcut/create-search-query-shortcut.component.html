@@ -1,0 +1,29 @@
+<nb-card>
+    <nb-card-header>
+        Create a new Search Query
+    </nb-card-header>
+    <nb-card-body>
+        <form
+            [formGroup]="form"
+            (ngSubmit)="handleSubmit()"
+            novalidate
+        >
+            <div class="form-inline">
+                <input
+                    type="text"
+                    nbInput
+                    placeholder="What are ye lookin' for?"
+                    fullWidth
+                    [formControlName]="'withAllTheseWords'"
+                    required
+                >
+                <button
+                    nbButton
+                    [status]="'primary'"
+                    type="submit"
+                    [disabled]="form.invalid"
+                >Submit</button>
+            </div>
+        </form>
+    </nb-card-body>
+</nb-card>

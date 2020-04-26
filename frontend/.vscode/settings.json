@@ -1,0 +1,33 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.encoding": "utf8",
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "**/node_modules": true,
+        "coverage": true,
+        "dist": true,
+        "reports": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "html.format.enable": true,
+    "html.format.endWithNewline": true,
+    "html.format.maxPreserveNewLines": 1,
+    "html.format.wrapAttributes": "force-expand-multiline",
+    "html.format.unformatted": "link,meta",
+    "tslint.autoFixOnSave": true,
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.tsdk": "node_modules/typescript/lib"
+}

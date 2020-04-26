@@ -1,0 +1,28 @@
+
+# build output
+bin
+obj
+dist
+tmp
+out-tsc
+
+# dependencies
+node_modules
+
+# editor suff
+.vs
+*.csproj.user
+appsettings.*.json
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# other stuff
+npm-debug.log
+yarn-error.log
+
+# system stuff
+.DS_Store
+Thumbs.db

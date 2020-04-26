@@ -1,0 +1,28 @@
+<nb-layout>
+
+    <nb-layout-header fixed>
+        <nb-icon
+            icon="menu-2-outline"
+            (click)="toggleSidebar()"
+        ></nb-icon>
+        <span>Catch 'em all</span>
+        <nb-actions>
+            <nb-action *ngIf="user | async as syncUser">
+                <nb-user
+                    [name]="syncUser.loggedIn ? syncUser.email : 'test'"
+                    [picture]="syncUser.loggedIn ? syncUser.picture : null"
+                    size="large"
+                ></nb-user>
+            </nb-action>
+        </nb-actions>
+    </nb-layout-header>
+
+    <nb-sidebar>
+        <nb-menu [items]="items"></nb-menu>
+    </nb-sidebar>
+
+    <nb-layout-column>
+        <router-outlet></router-outlet>
+    </nb-layout-column>
+
+</nb-layout>

@@ -1,0 +1,22 @@
+{
+    "extends": "../../tslint.json",
+    "rules": {
+        "directive-selector": [
+            true,
+            "attribute",
+            "cea",
+            "camelCase"
+        ],
+        "component-selector": [
+            true,
+            "element",
+            "cea",
+            "kebab-case"
+        ]
+    },
+    "linterOptions": {
+        "exclude": [
+            "!**/*"
+        ]
+    }
+}

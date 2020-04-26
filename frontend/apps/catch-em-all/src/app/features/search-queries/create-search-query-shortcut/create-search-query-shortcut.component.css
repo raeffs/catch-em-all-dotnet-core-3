@@ -1,0 +1,17 @@
+.form-inline {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.form-inline>* {
+    margin-right: 1.5rem;
+}
+
+.form-inline>*:last-child {
+    margin-right: 0;
+}
+
+.form-inline>*[fullWidth] {
+    flex: 1;
+}

@@ -1,0 +1,17 @@
+nb-layout-header {
+    background: linear-gradient(160deg, #3f0088, #9e01f7);
+    border-bottom: 5px solid black;
+}
+
+nb-icon {
+    color: #FFF;
+    font-size: 1.75rem;
+    margin-right: 1.25rem;
+    cursor: pointer;
+}
+
+span {
+    color: #FFF;
+    font-size: 1.25rem;
+    flex: auto;
+}
