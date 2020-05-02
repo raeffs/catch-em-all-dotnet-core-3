@@ -1,0 +1,67 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+
+- task: DotNetCoreCLI@2
+  displayName: 'Prepare backend'
+  inputs:
+    command: 'restore'
+    projects: 'backend/**/*.csproj'
+    feedsToUse: 'select'
+    verbosityRestore: 'Normal'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Build backend'
+  inputs:
+    command: 'build'
+    projects: 'backend/**/*.csproj'
+    arguments: '-c Release'
+
+- task: Yarn@3
+  displayName: 'Prepare frontend'
+  inputs:
+    projectDirectory: 'frontend'
+
+- task: Yarn@3
+  displayName: 'Build frontend'
+  inputs:
+    projectDirectory: 'frontend'
+    arguments: 'build --prod'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Prepare deployment'
+  inputs:
+    command: 'publish'
+    publishWebProjects: false
+    projects: 'backend/**/*.csproj'
+    modifyOutputPath: false
+
+- task: AzureWebApp@1
+  displayName: 'Deploy backend API'
+  inputs:
+    azureSubscription: 'catchemall on azure'
+    appType: 'webApp'
+    appName: 'catchemall-api'
+    package: 'backend/Raefftec.CatchEmAll.WebApi/**/*.zip'
+    deploymentMethod: 'auto'
+  
+- task: AzureFunctionApp@1
+  displayName: 'Deploy backend functions'
+  inputs:
+    azureSubscription: 'catchemall on azure'
+    appType: 'functionApp'
+    appName: 'catchemall-functions'
+    package: 'backend/Raefftec.CatchEmAll.Functions/**/*.zip'
+    deploymentMethod: 'auto'
+
+- task: AzureCLI@2
+  displayName: 'Deploy frontend'
+  inputs:
+    azureSubscription: 'catchemall on azure'
+    scriptType: 'pscore'
+    scriptLocation: 'inlineScript'
+    inlineScript: 'az storage blob upload-batch -s frontend/dist/apps/catch-em-all -d ''$web'' --account-name catchemall'
