@@ -49,8 +49,8 @@ namespace Raefftec.CatchEmAll.WebApi
                 })
                 .AddJwtBearer(options =>
                 {
-                    options.Authority = "https://raefftec.eu.auth0.com/";
-                    options.Audience = "QAuZ5ePArGrJ7WV83pd08XlOMUujqlpv";
+                    options.Authority = this.configuration.Get<Options>().Issuer;
+                    options.Audience = this.configuration.Get<Options>().ClientId;
                     options.TokenValidationParameters = new TokenValidationParameters
                     {
                         NameClaimType = "name"
